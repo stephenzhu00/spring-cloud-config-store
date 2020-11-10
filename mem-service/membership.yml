@@ -1,6 +1,6 @@
 member:
  rent:
-  min: 1001
+  min: 1000
   max: 30
  price:
   discount: 3
